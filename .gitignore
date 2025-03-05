@@ -1,0 +1,10 @@
+# MacOs
+.DS_Store
+.vscode
+
+# temp files
+tempdir.*
+
+# Videos
+*.mp4
+
